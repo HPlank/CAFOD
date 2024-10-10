@@ -1,0 +1,4 @@
+# ninja log v5
+7	16022	1708676900000000000	/mnt/sdbd/home/haokangjiang_pfr/code/OW-DETR-main/models/ops/build/temp.linux-x86_64-cpython-39/mnt/sdbd/home/haokangjiang_pfr/code/OW-DETR-main/models/ops/src/cpu/ms_deform_attn_cpu.o	bf4d9e8489c34309
+7	29931	1708676914000000000	/mnt/sdbd/home/haokangjiang_pfr/code/OW-DETR-main/models/ops/build/temp.linux-x86_64-cpython-39/mnt/sdbd/home/haokangjiang_pfr/code/OW-DETR-main/models/ops/src/vision.o	770ab826688c1a62
+7	87642	1708676972000000000	/mnt/sdbd/home/haokangjiang_pfr/code/OW-DETR-main/models/ops/build/temp.linux-x86_64-cpython-39/mnt/sdbd/home/haokangjiang_pfr/code/OW-DETR-main/models/ops/src/cuda/ms_deform_attn_cuda.o	553e63496660db77
