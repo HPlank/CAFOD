@@ -1,6 +1,6 @@
 # CAFOD: A Camera-Adaptive Foreign Object Detection Model for Coal Conveyor Belts
 
-#### Furong Peng, Kangjiang Hao, Xuan Lu*, Guodong Li, Huiyuan Huang, Kai Zhang
+#### Furong Peng, Kangjiang Hao, Xuan Lu*, Richard Yida Xu, Huiyuan Huang, Kai Zhang
 Foreign object detection on coal mine conveyor belts is crucial for ensuring operational safety and efficiency. How-
 ever, applying deep learning to this task is challenging due to variations in camera perspectives, which alter the
 appearance of foreign objects and their surrounding environment, thereby hindering model generalization. Despite
